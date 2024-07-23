@@ -1,0 +1,166 @@
+body{
+    background-color:white;
+}
+
+.hader{
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    margin: 0px;
+
+}
+
+.menu{
+    height: 25px;
+    width: 25px;
+    margin-top: 15px;
+    margin-right: 15px;
+
+}
+.logo{
+    height: 30px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.heading{
+    background-color:#ff553c;
+    font-size: 13px;
+    text-decoration:underline;
+    color: white;
+    
+}
+
+
+.tub{
+    border: 1px siold #ff553c;
+    margin-left: 50px;
+    margin-top: 80px;
+    width: 80px;
+    height: 8px;
+    border-radius: 10px;
+    float: left;
+}
+.mainheading{
+    float: right;
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+   
+
+}
+ .boost{
+    margin-top: 65px;
+    float: right;
+    margin-right: 200px;
+    text-align: start;
+ }
+ .inst:hover{
+    border: 2px soild #ff553c;
+    border-color: rgb(107, 107, 228);
+    
+
+ }
+ .pred{
+    color: #ff553c;
+ }
+ .start{
+    width: 160px;
+    height: 50px;
+    margin-top: 20px;
+    border: 0px;
+    border-radius: 6px;
+    background-color:#ff553c;
+    color: white;
+ }
+ .start:hover{
+    border: 3px solid #ff553c;
+    background-color: white;
+    color: #ff553c;
+
+ }
+ .at{
+    font-size: small;
+    margin-top: 30px;
+    margin-right: 140px;
+ }
+ .customer-review{
+    font-size: 10px;
+    margin-top: 15px;
+ }
+ .rat{
+    width: 5px;
+    height: 2px;
+ }
+ .mesgeicon{
+   height: 30px;
+   width: 30px;
+   /* display: flex;
+   justify-content: center; */
+   margin-top: 10px;
+   margin-left: 10px;
+ }
+ .chatsection{
+   background-color: #ff553c;
+   width: 55px;
+   height: 50px;
+   border-radius: 50px;
+   float: right;
+   margin-right: 0px;
+   position: relative;
+   left: 200px;
+   
+ }
+ .chatsection:hover{
+    opacity: 0.5;
+ }
+ /* .modelbtn{
+   background-color: white;
+   border: 0px;
+   float: right;
+ } */
+.chatbtn{
+   border: 0px solid gray;
+   height: 100px;
+   width: 30;
+   margin: 25px;
+   margin-bottom: 40px;
+   box-shadow: 0.2px 0.2px 1px  1px rgb(243, 239, 239);
+   border-radius: 5px;
+   margin-top: 3px;
+   
+}
+.chatbtn button{
+   background-color: #ff553c;
+   width: 250px;
+   margin-left: 15px;
+   border: none;
+   border-radius: 2px;
+
+}
+.chatbtn button:hover{
+   opacity: 0.5;
+}
+.chatbtn p{
+   /* margin-left:30px ; */
+   font-size: 15px;
+   margin: 10px;
+}
+
+
+/* className=''
+   style={{hover: "gray" ,border:'2px',backgroundColor:'white', color:'gray', textAlign:'center', width:'150px', fontSize:'12px'}}  */
+
+ .azam{
+/* border: 1px solid gray; */
+align-items: center;
+background-color: white;
+color: gray;
+font-size: 12px;
+/* width: 150px; */
+ }
+ .azam:hover{
+   background-color: rgb(241, 232, 232);
+ }
